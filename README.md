@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+Processo completo:
+>>>>>>> 916c0dc (conflitto)
 
 Mattia@DESKTOP-KHHGQ6F MINGW64 ~/Desktop/git prova (main)
 $ git checkout.
